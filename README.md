@@ -13,7 +13,14 @@ A simple text-based Hangman game built using Python. The player has to guess the
 - Win/Lose conditions implemented  
 
 ---
+##  Game Rules
 
+1. You need to guess the word one letter at a time
+2. Each wrong guess reduces your remaining attempts
+3. You have a maximum of 6 wrong attempts
+4. Guess the word before attempts run out to win
+
+---
 ##  Tech Stack
 
 - Python (Core concepts)

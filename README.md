@@ -1,10 +1,10 @@
-# 🎮 Hangman Game (Python)
+#  Hangman Game (Python)
 
 A simple text-based Hangman game built using Python. The player has to guess the hidden word one letter at a time within a limited number of attempts.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Random word selection from a predefined list  
 - 6 incorrect attempts limit  
@@ -14,7 +14,7 @@ A simple text-based Hangman game built using Python. The player has to guess the
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python (Core concepts)
   - Lists
@@ -24,7 +24,7 @@ A simple text-based Hangman game built using Python. The player has to guess the
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure Python is installed on your system  
 2. Clone this repository or download the file  

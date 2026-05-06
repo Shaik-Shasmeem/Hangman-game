@@ -1,4 +1,3 @@
-# Hangman-game
 # 🎮 Hangman Game (Python)
 
 A simple text-based Hangman game built using Python. The player has to guess the hidden word one letter at a time within a limited number of attempts.
